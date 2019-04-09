@@ -1,0 +1,4 @@
+load_system_dawg 0
+load_freq_dawg 0
+tessedit_char_whitelist 0123456789%uo+-/\(\)EV
+tessedit_create_hocr 1
